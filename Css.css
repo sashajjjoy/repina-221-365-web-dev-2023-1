@@ -1,0 +1,41 @@
+             body {
+                /* Apply the Google Font */
+                font-family: 'Roboto', sans-serif;
+             }
+
+            /* Style the header */
+            .header {
+                background-color: #fccc;
+                padding: 20px;
+                text-align: center;
+            }
+
+            /* Style the footer */
+            .footer {
+                background-color: #ccc;
+                padding: 10px;
+                text-align: center;
+            }
+            table {
+              border-collapse: collapse;
+              width: 100%;
+            }
+
+            th, td {
+              padding: 8px;
+              text-align: left;
+              border-bottom: 1px solid #ddd;
+            }
+
+            tr:nth-child(even) {
+              background-color: #fccc;
+            }
+
+            th {
+              background-color: #fccc;
+              color: white;
+            }
+            #pony_img
+            {
+            margin-left: 120px
+            }

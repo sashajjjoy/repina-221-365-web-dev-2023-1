@@ -11,7 +11,7 @@
             }
 
             /* Style the footer */
-            #footer {
+            .footer {
                 background-color: #ccc;
                 padding: 10px;
                 text-align: center;
@@ -35,7 +35,7 @@
               background-color: #fccc;
               color: white;
             }
-            #pony_img
+            .pony_img
             {
             margin-left: 18%;
             }
